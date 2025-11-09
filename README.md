@@ -1,1 +1,1 @@
-# maktab-landing
+# Maktab Mobile landing page
